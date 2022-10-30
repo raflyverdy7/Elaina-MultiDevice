@@ -129,7 +129,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
+git clone https://github.com/raflyverdy7/Elaina-MultiDevice
 cd Elaina-MultiDevice
 npm install
 npm update
